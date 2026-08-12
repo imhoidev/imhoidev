@@ -57,9 +57,9 @@ $ ./identity_handshake.sh --target=unknown_operator
 
 ```yaml
 alias:      00PS1H4CK3D
-role:       Full-Stack Developer            # edite para o seu cargo real
-stack:      [Backend, Frontend, DevOps]     # edite para a sua stack real
-location:   Brasil 🇧🇷                       # edite se quiser mostrar sua cidade/estado
+role:       Full-Stack Developer           
+stack:      [Backend, Frontend, DevOps]     
+location:   Brasil 🇧🇷                       
 status:     🟢 online — compilando ideias em produção
 directive:  transformar café em commits
 languages:
@@ -100,8 +100,8 @@ note:       decodificou o hex lá em cima? seja bem-vindo(a) ao sistema.
 </div>
 
 ```yaml
-building:   um projeto ainda em stealth mode 👀      # edite: no que você tá trabalhando agora
-learning:   [Rust, arquitetura de sistemas, ...]      # edite: o que você tá estudando
+building:   um projeto ainda em stealth mode 👀      
+learning:   [Rust, arquitetura de sistemas, ...]     
 collab:     aberto(a) a colaborar em projetos open-source
 ping_me:    sobre { dev, café, jogos, ideias malucas }
 ```
@@ -151,54 +151,8 @@ ping_me:    sobre { dev, café, jogos, ideias malucas }
   <img alt="snake contribution animation" src="https://raw.githubusercontent.com/oopsihacked/oopsihacked/output/snake-dark.svg" width="100%" />
 </picture>
 
-<sub>⚙️ animação gerada via GitHub Actions — configure com o passo a passo abaixo</sub>
 
 </div>
-
-<details>
-<summary>🔧 como ativar essa animação no seu perfil</summary>
-<br/>
-
-Crie o arquivo `.github/workflows/snake.yml` no repositório `oopsihacked/oopsihacked` com o conteúdo abaixo:
-
-```yaml
-name: generate snake animation
-
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: generate snake svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-dark.svg?color_snake=#F9E64F&color_dots=#0D1117,#144272,#2E5EAA,#58A6FF,#F9E64F
-            dist/snake-light.svg?color_snake=#0D1117&color_dots=#E6EDF3,#58A6FF,#2E5EAA,#144272,#0D1117
-
-      - name: push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
-<br/>
 
 <div align="center">
 
@@ -215,11 +169,6 @@ jobs:
 ### 🔵 // establish_connection
 
 [![github](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F9E64F)](https://github.com/oopsihacked)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/seu-usuario)
-[![email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F9E64F)](mailto:seuemail@exemplo.com)
-[![x](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF)](https://x.com/seu_usuario)
-
-<sub>👆 troque os links acima pelos seus (LinkedIn, e-mail, X)</sub>
 
 </div>
 

@@ -1,9 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,100:144272&height=220&section=header&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:0D1117,50:144272,100:0D1117&height=220&section=header&animation=fadeIn)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=780&height=50&lines=Initializing+encrypted+session...;Bypassing+conventional+introductions...;Cross-referencing+signature+database...;Stand+by+for+identity+confirmation..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=780&height=50&lines=Initializing+encrypted+session...;Bypassing+conventional+introductions...;Cross-referencing+signature+database...;Root+shell+granted.+Welcome+back." alt="Typing SVG" />
 </a>
 
 </div>
@@ -25,6 +25,7 @@ $ ./identity_handshake.sh --target=unknown_operator
           01101000 01100001 01100011 01101011 01100101
           01100100
 > STATUS  MATCH FOUND — ACCESS GRANTED
+> SHELL   spawning /bin/bash as root ........... OK
 ```
 
 ```
@@ -38,6 +39,7 @@ $ ./identity_handshake.sh --target=unknown_operator
 
 ![status](https://img.shields.io/badge/STATUS-ONLINE-F9E64F?style=for-the-badge)
 ![clearance](https://img.shields.io/badge/CLEARANCE-ROOT-58A6FF?style=for-the-badge)
+![build](https://img.shields.io/badge/BUILD-PASSING-144272?style=for-the-badge)
 
 *Desenvolvedor(a) que trata bug como charada e deploy como aposta. Bem-vindo(a) ao meu terminal.*
 
@@ -57,6 +59,7 @@ $ ./identity_handshake.sh --target=unknown_operator
 alias:      00PS1H4CK3D
 role:       Full-Stack Developer            # edite para o seu cargo real
 stack:      [Backend, Frontend, DevOps]     # edite para a sua stack real
+location:   Brasil 🇧🇷                       # edite se quiser mostrar sua cidade/estado
 status:     🟢 online — compilando ideias em produção
 directive:  transformar café em commits
 languages:
@@ -92,10 +95,29 @@ note:       decodificou o hex lá em cima? seja bem-vindo(a) ao sistema.
 
 <div align="center">
 
-### 🟡 // system.stats
+### 🟡 // now.exec
+
+</div>
+
+```yaml
+building:   um projeto ainda em stealth mode 👀      # edite: no que você tá trabalhando agora
+learning:   [Rust, arquitetura de sistemas, ...]      # edite: o que você tá estudando
+collab:     aberto(a) a colaborar em projetos open-source
+ping_me:    sobre { dev, café, jogos, ideias malucas }
+```
+
+<br/>
+
+<div align="center">
+
+### 🔵 // system.stats
 
 <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=oopsihacked&show_icons=true&theme=transparent&hide_border=false&border_color=58A6FF&bg_color=0D1117&title_color=F9E64F&text_color=58A6FF&icon_color=F9E64F" width="49%" />
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oopsihacked&layout=compact&theme=transparent&hide_border=false&border_color=58A6FF&bg_color=0D1117&title_color=F9E64F&text_color=58A6FF" width="49%" />
+
+<br/>
+
+<img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=oopsihacked&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=F9E64F&point=F9E64F&area=true" width="100%" />
 
 <br/>
 
@@ -107,7 +129,7 @@ note:       decodificou o hex lá em cima? seja bem-vindo(a) ao sistema.
 
 <div align="center">
 
-### 🔵 // trophy.case
+### 🟡 // trophy.case
 
 <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=oopsihacked&theme=onestar&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" width="100%"/>
 
@@ -121,7 +143,7 @@ note:       decodificou o hex lá em cima? seja bem-vindo(a) ao sistema.
 
 <div align="center">
 
-### 🟡 // contribution.matrix
+### 🔵 // contribution.matrix
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oopsihacked/oopsihacked/output/snake-dark.svg" />
@@ -180,7 +202,7 @@ jobs:
 
 <div align="center">
 
-### 🔵 // access.log
+### 🟡 // access.log
 
 ![visitor count](https://komarev.com/ghpvc/?username=oopsihacked&color=F9E64F&style=for-the-badge&label=ACCESS+LOG)
 
@@ -190,12 +212,14 @@ jobs:
 
 <div align="center">
 
-### 🟡 // establish_connection
+### 🔵 // establish_connection
 
 [![github](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F9E64F)](https://github.com/oopsihacked)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/seu-usuario)
 [![email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F9E64F)](mailto:seuemail@exemplo.com)
 [![x](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=58A6FF)](https://x.com/seu_usuario)
+
+<sub>👆 troque os links acima pelos seus (LinkedIn, e-mail, X)</sub>
 
 </div>
 
@@ -203,6 +227,6 @@ jobs:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:144272,100:0D1117&height=150&section=footer&text=end_of_transmission&fontAlign=50&fontColor=F9E64F&fontSize=18&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:144272,50:0D1117,100:0D1117&height=150&section=footer&text=end_of_transmission&fontAlign=50&fontColor=F9E64F&fontSize=18&animation=fadeIn)
 
 </div>
